@@ -45207,7 +45207,7 @@ R.xk.prototype={}
 N.yb.prototype={}
 S.nJ.prototype={
 M:function(a,b){var s=null
-return T.k9(C.bP,H.d([M.dm(s,s,s,s,new S.dL(C.bT,new X.vB(new L.kO("images/pexels-matheus-bertelli-1144687.jpg",s,s),C.oa),s,s,s,s,C.U),s,s,s,s),M.dm(s,s,P.aQ(102,0,0,0),s,s,s,s,s,s)],t.t),C.bM)}}
+return T.k9(C.bP,H.d([M.dm(s,s,s,s,new S.dL(C.bT,new X.vB(new L.kO("assets/images/pexels-matheus-bertelli-1144687.jpg",s,s),C.oa),s,s,s,s,C.U),s,s,s,s),M.dm(s,s,P.aQ(102,0,0,0),s,s,s,s,s,s)],t.t),C.bM)}}
 Y.xe.prototype={
 M:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null
 $.bt()
@@ -45218,7 +45218,7 @@ r=$.cy().k1
 r.toString
 r=F.bK($.aO.h(0,r),!1).a
 s=s.a/9*1.2
-q=M.a0i(f,f,new D.lJ("/assets/images/picture5.jpg",1))
+q=M.a0i(f,f,new D.lJ("assets/images/picture5.jpg",1))
 p=T.hu(f,f,30)
 o=$.cy().k1
 o.toString
